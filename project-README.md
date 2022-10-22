@@ -21,7 +21,7 @@
   ### Prerequisites
   Before you start with the tutorial make sure you have
 
-  - [Node.js](https://nodejs.org/en/) v16.9.0 or greater installed on your machine ([NVM](https://github.com/coreybutler/nvm-windows) is a great tool for installing Node packages)
+  - [Node.js](https://nodejs.org/en/) v16.9.0 or greater installed on your machine ([NVM](https://github.com/coreybutler/nvm-windows) is a great tool for installing Node packages in Windows)
   - Medusa fully set up
 
   ### Cloning and executing the code
